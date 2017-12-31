@@ -1,0 +1,12 @@
+1 + 2 - 3 = 0
+6 - 2 - 4 = 0
+1 + 2 * 3 = 7
+1 * 2 + 3 = 5
+9 * 4 / 6 = 6
+2 + 3 % 0 = divide by error
+3 / 0 = divide by error
+1 ^ 2 = unknown token [^]
+1 + 2 3 = wrong expression
++ 1 = wrong expression
++ + = wrong expression
+1 2 3 = wrong expression
